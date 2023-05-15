@@ -1,5 +1,5 @@
 
-# Wifi Lab - Science Olympiad 2023
+# Wifi Lab - Science Olympiad 2023 - ARCHIVE
 
 Official repository for all desings and logs for the Science Olympiad Wifi Lab Device portion of event. 
 
